@@ -27,8 +27,7 @@
 
 #### Feature Tasks  
 * Implement an **in-order** traversal function that returns a string of the visited nodes.
-  * For example : "6,8,7,9,2,1,4,3,5"
-
+  * For example : `6,8,7,9,2,1,4,3,5`
 
 ####  Documentation
   * in your README, write documentation for you data structures
