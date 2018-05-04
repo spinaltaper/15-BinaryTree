@@ -26,7 +26,8 @@
 * organize your tests into appropriate describe/test blocks for test output readability
 
 #### Feature Tasks  
-* Implement an **in-order** traversal function
+* Implement an **in-order** traversal function that returns a string of the visited nodes.
+  * For example : "6,8,7,9,2,1,4,3,5"
 
 
 ####  Documentation
