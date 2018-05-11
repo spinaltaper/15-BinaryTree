@@ -1,0 +1,33 @@
+{
+  "name": "15-binarytree",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) Lab 15- Binary Tree Data Structure\r ====\r ## To Submit this Assignment\r * Read this document entirely and estimate how long this assignment will take.\r * Work in a fork of this repository\r * Work in a branch on your fork\r * Protect your repository's `master` branch by activating `continuous-integration/travis-ci` status checks\r * Create a pull request from your `lab` + `<your name>` branch to your `master` branch\r * Open a pull request to this repository\r * Submit on canvas a question and observation,your original estimate, how long you spent, and a link to your pull request",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jest": "^21.15.1",
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinaltaper/15-BinaryTree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinaltaper/15-BinaryTree/issues"
+  },
+  "homepage": "https://github.com/spinaltaper/15-BinaryTree#readme"
+}
